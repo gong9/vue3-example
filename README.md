@@ -1,24 +1,13 @@
 # vue3-example
 
-## Project setup
-```
-yarn install
-```
+## vue3 
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+新特性 
+- composition api
+- 响应式变更
+- 全新的全家桶
+- 全新的ts支持
 
-### Compiles and minifies for production
-```
-yarn build
-```
+关于vue3 的最近的更新，set up 语法
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+改变： 不再需要进行return
